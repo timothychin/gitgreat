@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: teamMember
-  - __Scrum Master__: teamMember
-  - __Development Team Members__: teamMember, teamMember
+  - __Product Owner__: Wells Tsai
+  - __Scrum Master__: Timothy Chin
+  - __Development Team Members__: Jennifer Kao, Vivian Zhang
 
 ## Table of Contents
 
